@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Poomrapee+%F0%9F%91%8B;Lazy+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FF71CE&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Poomrapee+%F0%9F%91%8B;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -17,8 +17,8 @@
 ### 🚀 About Me
 <div style="background: linear-gradient(135deg, #FF71CE, #01CDFE); border-radius: 10px; padding: 10px;">
 
-- 🎯 Lazy developer passionate about backend and ai
-- 💡 Love exploring new technologies
+- 🎯 passionate about backend, data and ai ?
+- 💡 Love exploring new technologies but too lazy to try T-T
 - 🌱 Currently being a sloth ???
 </div>
 
